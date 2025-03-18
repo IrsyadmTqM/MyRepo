@@ -1,1 +1,2 @@
 ini baris pertama
+ini commit ke dua

@@ -2,6 +2,8 @@
 
 ![cover](cover.jpg)
 
+**Cover (1080×1920):** [`cover.png`](cover.png) / [`cover.jpg`](cover.jpg) — dibuat oleh `cover.py`, teks penting ada di area tengah supaya aman saat dipotong jadi grid profil 3:4.
+
 **File video:** [`motor-driver-explainer.mp4`](motor-driver-explainer.mp4)
 1080×1920 (9:16) · 30 fps · 79 detik · H.264 + AAC 256 kbps · audio -14 LUFS / puncak -1.2 dBFS (standar loudness TikTok/IG)
 

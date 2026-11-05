@@ -1,0 +1,64 @@
+{
+  "judul": "Kok TikTok & Instagram tahu kamu suka apa?",
+  "sampul": [
+    "Kok FYP-mu bisa",
+    "tahu kamu suka apa?"
+  ],
+  "fps": 30,
+  "kataPerDetik": 2.9,
+  "jedaAkhirDetik": 0.35,
+  "adegan": [
+    {
+      "id": "hook",
+      "vo": "Jangan swipe. Sejak video ini mulai, aku udah ngitung berapa detik kamu nonton.",
+      "teks": "kamu sedang diukur"
+    },
+    {
+      "id": "kenalan",
+      "vo": "Kenalin, aku algoritma rekomendasi. TikTok punya, Instagram juga punya. Cara kerjanya mirip.",
+      "teks": "aku = algoritma"
+    },
+    {
+      "id": "sinyal",
+      "vo": "Aku nggak nunggu kamu like. Berhenti scroll, nonton sampai habis, kirim ke teman, atau skip, semua aku catat. Tapi yang paling penting: berapa lama kamu nonton.",
+      "teks": "lama nonton > like",
+      "sumber": "TikTok (2020) · Adam Mosseri, Instagram (2025)"
+    },
+    {
+      "id": "peta",
+      "vo": "Semua video aku taruh di peta minat. Kamu juga. Tiap kamu nonton video kucing sampai habis, posisimu geser makin dekat ke pulau kucing.",
+      "teks": "peta minat"
+    },
+    {
+      "id": "masihdisini",
+      "vo": "Masih nonton? Udah aku catat.",
+      "teks": "tercatat"
+    },
+    {
+      "id": "mirip",
+      "vo": "Terus aku lihat orang-orang yang posisinya dekat sama kamu. Mereka lagi suka video robot? Kemungkinan besar kamu juga.",
+      "teks": "orang yang mirip kamu"
+    },
+    {
+      "id": "turnamen",
+      "vo": "Dari jutaan video, aku pilih ratusan yang cocok. Terus tiap video aku kasih nilai: peluang kamu nonton sampai habis, like, atau kirim. Nilai tertinggi, muncul di layarmu.",
+      "teks": "jutaan → ratusan → 1"
+    },
+    {
+      "id": "ujian",
+      "vo": "Sesekali aku selipin video di luar kebiasaanmu, buat ngetes. Kalau kamu tonton sampai habis... ya, FYP-mu langsung berubah.",
+      "teks": "1 video, FYP berubah"
+    },
+    {
+      "id": "kreator",
+      "vo": "Di TikTok, jumlah follower bahkan bukan faktor langsung. Biasanya, video baru dites dulu ke sekelompok kecil penonton. Kalau mereka nonton sampai habis, aku sebar lebih luas.",
+      "teks": "0 follower tetap bisa FYP",
+      "sumber": "TikTok Newsroom (2020)"
+    },
+    {
+      "id": "penutup",
+      "vo": "Kamu nonton sampai habis. Selamat, kamu baru aja ngajarin aku kalau kamu suka video kayak gini. Sampai ketemu di FYP-mu.",
+      "teks": "part 2: reset FYP kamu"
+    }
+  ]
+}

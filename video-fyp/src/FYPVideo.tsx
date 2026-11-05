@@ -31,7 +31,7 @@ type Def = {
 const ADEGAN: Record<string, Def> = {
   hook: { Komponen: Hook, judulMulai: () => 0, warnaJudul: C.danger },
   kenalan: { Komponen: Kenalan, judulMulai: (a) => frameKata(a, 'algoritma', 1, 10), warnaJudul: C.algo },
-  sinyal: { Komponen: Sinyal, judulMulai: (a) => frameKata(a, 'tapi', 1, 150), sumberMulai: (a) => frameKata(a, 'tapi', 1, 150) + 8 },
+  sinyal: { Komponen: Sinyal, judulMulai: () => 6, sumberMulai: (a) => frameKata(a, 'tapi', 1, 150) + 8 },
   peta: { Komponen: Peta, judulMulai: (a) => frameKata(a, 'peta', 1, 20) },
   masihdisini: { Komponen: MasihDiSini, judulMulai: (a) => frameKata(a, 'masih', 1, 6), warnaJudul: C.ok, judulY: 690 },
   mirip: { Komponen: Mirip, judulMulai: (a) => frameKata(a, 'orang-orang', 1, 20), warnaJudul: C.algo },

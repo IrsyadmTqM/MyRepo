@@ -21,13 +21,13 @@
     },
     {
       "id": "sinyal",
-      "vo": "Aku nggak nunggu kamu like. Berhenti scroll, nonton sampai habis, kirim ke teman, atau skip, semua aku catat. Tapi yang paling penting: berapa lama kamu nonton.",
-      "teks": "lama nonton > like",
+      "vo": "Semua yang kamu lakuin aku catat. Berhenti scroll, nonton sampai habis, like, kirim ke teman, atau skip. Tapi bedanya: like cuma kamu kasih sesekali. Lama nonton? Kamu kasih di setiap video, tanpa sadar.",
+      "teks": "semua dicatat",
       "sumber": "TikTok (2020) · Adam Mosseri, Instagram (2025)"
     },
     {
       "id": "peta",
-      "vo": "Semua video aku taruh di peta minat. Kamu juga. Tiap kamu nonton video kucing sampai habis, posisimu geser makin dekat ke pulau kucing.",
+      "vo": "Semua video aku taruh di peta minat. Kamu juga. Tiap kamu nonton sampai habis atau like video kucing, posisimu geser makin dekat ke pulau kucing.",
       "teks": "peta minat"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "id": "kreator",
-      "vo": "Di TikTok, jumlah follower bahkan bukan faktor langsung. Biasanya, video baru dites dulu ke sekelompok kecil penonton. Kalau mereka nonton sampai habis, aku sebar lebih luas.",
+      "vo": "Di TikTok, jumlah follower bahkan bukan faktor langsung. Biasanya, video baru dites dulu ke sekelompok kecil penonton. Kalau mereka nonton sampai habis, like, atau kirim ke teman, aku sebar lebih luas.",
       "teks": "0 follower tetap bisa FYP",
       "sumber": "TikTok Newsroom (2020)"
     },

@@ -2,6 +2,7 @@ import React from 'react';
 import { AbsoluteFill } from 'remotion';
 import { Algo } from './components/Algo';
 import { Latar } from './components/ui';
+import { Watermark } from './components/Watermark';
 import naskah from './naskah.json';
 import { C, FONT, loadFonts } from './theme';
 
@@ -28,5 +29,6 @@ export const Sampul: React.FC = () => (
       ))}
     </div>
     <Algo x={540} y={1060} scale={1.45} pose="stopwatch" lihat={{ x: 0, y: 6 }} />
+    <Watermark handle={naskah.watermark} y={1600} skala={1.5} opacity={1} tengah />
   </AbsoluteFill>
 );

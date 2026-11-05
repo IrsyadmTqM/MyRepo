@@ -2,6 +2,8 @@ import React, { useMemo } from 'react';
 import { AbsoluteFill, Html5Audio, Sequence, Series, interpolate, useCurrentFrame } from 'remotion';
 import { Subtitle, Timer, susunSubtitle } from './components/overlays';
 import { Headline, Latar, Sumber } from './components/ui';
+import { Watermark } from './components/Watermark';
+import naskah from './naskah.json';
 import { Hook } from './scenes/Hook';
 import { Kenalan } from './scenes/Kenalan';
 import { Kreator } from './scenes/Kreator';
@@ -122,6 +124,7 @@ export const FYPVideo: React.FC<Props> = ({ adegan }) => {
       </Series>
       <Timer nilai={nilai} tekan={tekan} berhenti={berhenti} />
       <Subtitle halaman={halaman} />
+      <Watermark handle={naskah.watermark} x={40} skala={0.85} />
     </AbsoluteFill>
   );
 };
